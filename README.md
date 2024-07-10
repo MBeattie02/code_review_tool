@@ -44,11 +44,11 @@ syntax and structure. This tool is designed in a cloud-native fashion and devel-
 * Checking existence of race condition.
 ## Further Information and basic Help
 
-[User Guide](https://linktodocumentation)
+[User Guide](https://github.com/MBeattie02/code_review_tool/blob/main/code_review_tool_documentation/UserManual.pdf)
 
-[Serverside Code](https://linktodocumentation)
+[Serverside Code](https://github.com/MBeattie02/code_review_tool/tree/main/code_review_server)
 
-[Clientside Code](https://linktodocumentation)
+[Clientside Code](https://github.com/MBeattie02/code_review_tool/tree/main/code_review_client)
 ## Version
 
 Version of Software: ![version](https://img.shields.io/badge/version-1.0.0-blue)
